@@ -5,3 +5,8 @@ A list of npm packages for Angular
 - [ag-Grid](https://www.ag-grid.com/)
 - [Angular Ace Wrapper](https://github.com/zefoy/ngx-ace-wrapper)
 - [handsontable](https://handsontable.com/)
+- [Ignite UI Angular](https://www.infragistics.com/products/ignite-ui-angular)
+- []()
+- []()
+- []()
+- []()
